@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# To-Do-App
-=======
+
 # Todo App
 
 This is a simple todo app built using Node.js, Express, and MVC architecture.
